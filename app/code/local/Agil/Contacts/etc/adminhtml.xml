@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<config>
+    <menu>
+        <agil module="agil_contacts" translate="title">
+            <title>Agil</title>
+            <sort_order>153</sort_order>
+            <children>
+                <index module="agil_contacts" translate="title">
+                    <title>Contacts</title>
+                    <sort_order>1</sort_order>
+                    <action>adminhtml/contact/index</action>
+                </index>
+            </children>
+        </agil>
+    </menu>
+</config>
