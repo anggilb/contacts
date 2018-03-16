@@ -2,4 +2,4 @@
 
 Este módulo de Magento consiste en la prueba técnica para CSengine.
 
-Consiste en extender el módulo de contacto que ya lleva magento y hacer que también se guarden las peticiones de contacto en la base de datos y se siga enviando el email. También cuenta con una sección en el backoffice para poder ver en un grid los formularios enviados.
+Extender el módulo de contacto de Magento y hacer que también se guarden las peticiones en la base de datos, sin que por ello deje de enviarse el email. También debe contar con una sección en el backoffice para poder ver en un grid los formularios enviados.
